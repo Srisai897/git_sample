@@ -1,3 +1,3 @@
-#Git Sample
+# Git Sample
 
-##Learning git commands
+## Learning git commands
