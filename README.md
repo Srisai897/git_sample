@@ -1,1 +1,3 @@
-# git_sample
+#Git Sample
+
+##Learning git commands
